@@ -1,0 +1,9 @@
+* guideline
+** discover Oracle VM server
+** discover storage
+** create a virtual machine network
+** create a server pool
+** create a stroage repository
+** add resources to storage repository
+** create a virtual machine
+* 
